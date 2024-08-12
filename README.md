@@ -1,1 +1,10 @@
-# Classroom_discipline_management_tool_with_Dingtalk_robot_API
+# 基于钉钉机器人API的教室纪律管理工具
+非常草率作品，来自东拼西凑
+
+部分代码引用自https://github.com/Ckend/dd_notice, 有进行删改，仓库中的ddmstl.py是我修改过后的功能更多版本，不过在这个程序中，没有必要用上其他功能，因此没有import而是直接把一小段有用的复制进去了
+
+基于tkinter写了一个GUI，机器人的token和密钥通过拉大窗口设置，自动保存为.txt文件，可以一键导入
+
+音量监测功能极其不稳定，粗暴而玄学，需要更好的方法。
+
+多多指教，感激不尽
